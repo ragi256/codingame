@@ -1,0 +1,6 @@
+[package]
+name = "codingame"
+version = "0.1.0"
+authors = ["ragi256 <sukerutulo+github@gmail.com>"]
+
+[dependencies]
